@@ -1,0 +1,57 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} 
+
+.navbar
+{
+  background-color: red;
+  text-align: center;
+}
+
+
+
+.h4{
+  display: grid;
+  text-align: center;
+  color: white;
+  width: 95%;
+  
+}
+
+ .icon{
+  color: white;
+  display: flex;
+  align-items: right;
+  width: 5%;
+} 
+.cart{
+  font-size: 2rem;
+  display: flex;
+} 
+/* .cartc{
+  font-size: 1.5rem;
+  display: flex;
+} */
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+

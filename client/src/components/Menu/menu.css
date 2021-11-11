@@ -1,0 +1,24 @@
+  .figure{
+     height:250px ;
+    width:250px ; 
+justify-content: center;
+
+  }
+
+  .caption{
+    margin-left:100px;
+  }
+
+  .link{
+    text-decoration: underline;
+    color: black;
+  }
+
+  .link:hover{
+    color:brown;
+  }
+
+   .container-left{
+     margin-left: 400px;
+  
+  } 
